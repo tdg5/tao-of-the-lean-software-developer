@@ -1,0 +1,17 @@
+author: Danny Guinther
+highlighter: rouge
+markdown: redcarpet
+redcarpet:
+  extensions: [
+    autolink,
+    disable_indented_code_blocks,
+    fenced_code_blocks,
+    footnotes,
+    no_intra_emphasis,
+    space_after_headers,
+    strikethrough,
+    tables,
+    underline
+  ]
+title: Tao of the Lean Software Developer
+url: http://localhost:4000
